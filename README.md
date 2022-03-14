@@ -1,3 +1,7 @@
+# Application Météo
+
+Application qui permet d'afficher la météo en fonction d'un lieu choisit sur la carte ou alors d'une adresse indiquée.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
